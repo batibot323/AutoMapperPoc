@@ -1,0 +1,9 @@
+E:\source-hdd\WebApplication1\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\source-hdd\WebApplication1\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\source-hdd\WebApplication1\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\source-hdd\WebApplication1\Models\obj\Debug\netcoreapp3.1\Models.pdb
