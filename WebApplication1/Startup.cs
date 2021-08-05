@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Newtonsoft.Json.Serialization;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +27,8 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<IOrdersService, OrdersService>();
+            //services.AddAutoMapper
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

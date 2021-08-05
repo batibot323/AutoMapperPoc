@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    public class OrderDTO
+    public class ComplexOrder
     {
-        public int PresyoAwitSakit { get; set; }
-        public string Name { get; set; }
     }
 }

@@ -9,9 +9,9 @@ namespace Models
     public class Order
     {
         public int Id { get; set; }
-        public int Price { get; set; }
-        public string Name { get; set; }
-        public DateTime Date { get; set; }
-        public List<string> Items { get; set; }
+        public int PriceAwitSakit { get; set; }
+        public string NameBabyBoi { get; set; }
+        public DateTime DateTayo { get; set; }
+        public List<string> ItemsInMyBag { get; set; }
     }
 }
